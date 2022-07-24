@@ -36,6 +36,10 @@ body::after {
   background-color: rgba(0, 0, 0, 0.6);
   z-index: -1;*/
 }
+.breath-input {
+  color: #13284a;
+}
+
 .input {
   display: flex;
   flex-direction: column;
